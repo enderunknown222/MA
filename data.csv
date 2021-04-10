@@ -1,0 +1,381 @@
+Date,Home,xG,Score,Score,xG,Away
+12/9/2020,Fulham,0.2,0,3,1.8,Arsenal
+12/9/2020,Crystal Palace,0.7,1,0,0.8,Southampton
+12/9/2020,Liverpool,3.3,4,3,0.6,Leeds United
+12/9/2020,West Ham,1.1,0,2,1.5,Newcastle Utd
+13/9/2020,West Brom,0.5,0,3,2.2,Leicester City
+13/9/2020,Tottenham,1,0,1,1.4,Everton
+14/9/2020,Sheffield Utd,0.6,0,2,1.1,Wolves
+14/9/2020,Brighton,1.4,1,3,1.2,Chelsea
+19/9/2020,Everton,3.4,5,2,0.3,West Brom
+19/9/2020,Leeds United,1.7,4,3,1.8,Fulham
+19/9/2020,Manchester Utd,1.1,1,3,1.6,Crystal Palace
+19/9/2020,Arsenal,1.4,2,1,1.9,West Ham
+20/9/2020,Southampton,1.5,2,5,2.5,Tottenham
+20/9/2020,Newcastle Utd,0.5,0,3,1.6,Brighton
+20/9/2020,Chelsea,1,0,2,2.6,Liverpool
+20/9/2020,Leicester City,1.4,4,2,1.9,Burnley
+21/9/2020,Aston Villa,1,1,0,0.9,Sheffield Utd
+21/9/2020,Wolves,1,1,3,1.9,Manchester City
+26/9/2020,Brighton,2.4,2,3,1.1,Manchester Utd
+26/9/2020,Crystal Palace,0.4,1,2,2,Everton
+26/9/2020,West Brom,1,3,3,2.2,Chelsea
+26/9/2020,Burnley,0.5,0,1,0.6,Southampton
+27/9/2020,Sheffield Utd,1.6,0,1,1.6,Leeds United
+27/9/2020,Tottenham,2.3,1,1,1,Newcastle Utd
+27/9/2020,Manchester City,0.9,2,5,2.6,Leicester City
+27/9/2020,West Ham,1.6,4,0,0.5,Wolves
+28/9/2020,Fulham,0.7,0,3,1.6,Aston Villa
+28/9/2020,Liverpool,3.2,3,1,1.2,Arsenal
+3/10/2020,Chelsea,2.5,4,0,0.1,Crystal Palace
+3/10/2020,Everton,1.8,4,2,1.2,Brighton
+3/10/2020,Leeds United,1.7,1,1,1.5,Manchester City
+3/10/2020,Newcastle Utd,2,3,1,0.6,Burnley
+4/10/2020,Leicester City,0.4,0,3,1.6,West Ham
+4/10/2020,Southampton,1.2,2,0,0.1,West Brom
+4/10/2020,Arsenal,0.4,2,1,0.2,Sheffield Utd
+4/10/2020,Wolves,1.2,1,0,0.7,Fulham
+4/10/2020,Manchester Utd,0.9,1,6,3.8,Tottenham
+4/10/2020,Aston Villa,3.9,7,2,1.8,Liverpool
+17/10/2020,Everton,1.3,2,2,2.2,Liverpool
+17/10/2020,Chelsea,2,3,3,2.2,Southampton
+17/10/2020,Manchester City,1.5,1,0,0.9,Arsenal
+17/10/2020,Newcastle Utd,0.5,1,4,2.7,Manchester Utd
+18/10/2020,Sheffield Utd,1.5,1,1,1.7,Fulham
+18/10/2020,Crystal Palace,0.8,1,1,1.1,Brighton
+18/10/2020,Tottenham,1.2,3,3,2.1,West Ham
+18/10/2020,Leicester City,0.5,0,1,0.6,Aston Villa
+19/10/2020,West Brom,1,0,0,1.1,Burnley
+19/10/2020,Leeds United,1.6,0,1,0.5,Wolves
+23/10/2020,Aston Villa,1.2,0,3,3.6,Leeds United
+24/10/2020,West Ham,0.5,1,1,1.1,Manchester City
+24/10/2020,Fulham,1.1,1,2,2.6,Crystal Palace
+24/10/2020,Manchester Utd,0.7,0,0,0.2,Chelsea
+24/10/2020,Liverpool,2.5,2,1,1.5,Sheffield Utd
+25/10/2020,Southampton,0.7,2,0,0.4,Everton
+25/10/2020,Wolves,0.7,1,1,0.2,Newcastle Utd
+25/10/2020,Arsenal,0.9,0,1,1.2,Leicester City
+26/10/2020,Brighton,0.7,1,1,0.6,West Brom
+26/10/2020,Burnley,0.6,0,1,0.8,Tottenham
+30/10/2020,Wolves,1.3,2,0,0.6,Crystal Palace
+31/10/2020,Sheffield Utd,0.5,0,1,1.5,Manchester City
+31/10/2020,Burnley,0.4,0,3,1.4,Chelsea
+31/10/2020,Liverpool,1.8,2,1,0.5,West Ham
+1/11/2020,Aston Villa,1.8,3,4,0.7,Southampton
+1/11/2020,Newcastle Utd,2.5,2,1,1.2,Everton
+1/11/2020,Manchester Utd,0.3,0,1,1.1,Arsenal
+1/11/2020,Tottenham,1.8,2,1,0.4,Brighton
+2/11/2020,Fulham,1.5,2,0,0.5,West Brom
+2/11/2020,Leeds United,1,1,4,3.5,Leicester City
+6/11/2020,Brighton,1.3,0,0,0.3,Burnley
+6/11/2020,Southampton,0.9,2,0,0.5,Newcastle Utd
+7/11/2020,Everton,0.6,1,3,1.6,Manchester Utd
+7/11/2020,Crystal Palace,0.9,4,1,0.8,Leeds United
+7/11/2020,Chelsea,2.7,4,1,0.6,Sheffield Utd
+7/11/2020,West Ham,1.3,1,0,1.6,Fulham
+8/11/2020,West Brom,0.8,0,1,1.6,Tottenham
+8/11/2020,Leicester City,1.9,1,0,0.5,Wolves
+8/11/2020,Manchester City,1.6,1,1,1.4,Liverpool
+8/11/2020,Arsenal,1.5,0,3,1.7,Aston Villa
+21/11/2020,Newcastle Utd,0.6,0,2,1.6,Chelsea
+21/11/2020,Aston Villa,1.5,1,2,1.3,Brighton
+21/11/2020,Tottenham,0.7,2,0,1.3,Manchester City
+21/11/2020,Manchester Utd,2.5,1,0,0.6,West Brom
+22/11/2020,Fulham,1.3,2,3,1.6,Everton
+22/11/2020,Sheffield Utd,0.7,0,1,2.2,West Ham
+22/11/2020,Leeds United,2.5,0,0,0.9,Arsenal
+22/11/2020,Liverpool,3.7,3,0,1.3,Leicester City
+23/11/2020,Burnley,1.6,1,0,1.4,Crystal Palace
+23/11/2020,Wolves,1.9,1,1,1.5,Southampton
+27/11/2020,Crystal Palace,1,0,2,1.5,Newcastle Utd
+28/11/2020,Brighton,2.1,1,1,0.5,Liverpool
+28/11/2020,Manchester City,2.8,5,0,0.4,Burnley
+28/11/2020,Everton,1.6,0,1,2.9,Leeds United
+28/11/2020,West Brom,1.3,1,0,2.7,Sheffield Utd
+29/11/2020,Southampton,0.4,2,3,2.3,Manchester Utd
+29/11/2020,Chelsea,1,0,0,0.2,Tottenham
+29/11/2020,Arsenal,1.2,1,2,1.4,Wolves
+30/11/2020,Leicester City,0.9,1,2,1.8,Fulham
+30/11/2020,West Ham,0.6,2,1,2.6,Aston Villa
+5/12/2020,Burnley,0.8,1,1,1.7,Everton
+5/12/2020,Manchester City,3,2,0,0.2,Fulham
+5/12/2020,West Ham,2.2,1,3,1.9,Manchester Utd
+5/12/2020,Chelsea,3.7,3,1,1.3,Leeds United
+6/12/2020,West Brom,0.8,1,5,1.8,Crystal Palace
+6/12/2020,Sheffield Utd,0.3,1,2,1.5,Leicester City
+6/12/2020,Tottenham,0.5,2,0,0.8,Arsenal
+6/12/2020,Liverpool,1.2,4,0,0.5,Wolves
+7/12/2020,Brighton,2.1,1,2,1.1,Southampton
+11/12/2020,Leeds United,1.8,1,2,1.9,West Ham
+12/12/2020,Wolves,1.2,0,1,1.1,Aston Villa
+12/12/2020,Newcastle Utd,1.1,2,1,0.6,West Brom
+12/12/2020,Manchester Utd,1,0,0,1.2,Manchester City
+12/12/2020,Everton,1.3,1,0,0.9,Chelsea
+13/12/2020,Southampton,1.4,3,0,0.4,Sheffield Utd
+13/12/2020,Crystal Palace,1.2,1,1,1.1,Tottenham
+13/12/2020,Fulham,1.5,1,1,2.1,Liverpool
+13/12/2020,Arsenal,1.5,0,1,0.9,Burnley
+13/12/2020,Leicester City,1.7,3,0,1.1,Brighton
+15/12/2020,Wolves,0.5,2,1,1.3,Chelsea
+15/12/2020,Manchester City,1.9,1,1,0.3,West Brom
+16/12/2020,Arsenal,0.7,1,1,1.1,Southampton
+16/12/2020,Leicester City,0.7,0,2,1.2,Everton
+16/12/2020,Leeds United,2.8,5,2,0.9,Newcastle Utd
+16/12/2020,West Ham,0.3,1,1,0.9,Crystal Palace
+16/12/2020,Fulham,0.8,0,0,0.6,Brighton
+16/12/2020,Liverpool,1.2,2,1,1.3,Tottenham
+17/12/2020,Aston Villa,2,0,0,0.4,Burnley
+17/12/2020,Sheffield Utd,1.6,2,3,2,Manchester Utd
+19/12/2020,Crystal Palace,0.3,0,7,2.1,Liverpool
+19/12/2020,Southampton,1,0,1,1.1,Manchester City
+19/12/2020,Everton,0.8,2,1,1.4,Arsenal
+19/12/2020,Newcastle Utd,1.4,1,1,0.7,Fulham
+20/12/2020,Brighton,2.6,1,1,0.7,Sheffield Utd
+20/12/2020,Tottenham,1.1,0,2,1.5,Leicester City
+20/12/2020,Manchester Utd,4,6,2,1.7,Leeds United
+20/12/2020,West Brom,0,0,3,2.3,Aston Villa
+21/12/2020,Burnley,1.8,2,1,1.4,Wolves
+21/12/2020,Chelsea,2.1,3,0,0.5,West Ham
+26/12/2020,Leicester City,1.2,2,2,2.2,Manchester Utd
+26/12/2020,Fulham,0.9,0,0,0.1,Southampton
+26/12/2020,Aston Villa,3.5,3,0,1.1,Crystal Palace
+26/12/2020,Arsenal,2.1,3,1,2.3,Chelsea
+26/12/2020,Sheffield Utd,1.2,0,1,0.7,Everton
+26/12/2020,Manchester City,1.8,2,0,0.3,Newcastle Utd
+27/12/2020,Leeds United,1.8,1,0,1.1,Burnley
+27/12/2020,West Ham,1.2,2,2,1.2,Brighton
+27/12/2020,Liverpool,1.6,1,1,0.5,West Brom
+27/12/2020,Wolves,1,1,1,0.4,Tottenham
+28/12/2020,Crystal Palace,0.5,1,1,1.8,Leicester City
+28/12/2020,Chelsea,1.4,1,1,0.8,Aston Villa
+29/12/2020,Southampton,0.5,0,0,0.9,West Ham
+29/12/2020,West Brom,0.6,0,5,0.9,Leeds United
+29/12/2020,Brighton,0.8,0,1,1.2,Arsenal
+29/12/2020,Burnley,0.8,1,0,0.4,Sheffield Utd
+29/12/2020,Manchester Utd,1.3,1,0,0.4,Wolves
+30/12/2020,Newcastle Utd,0.3,0,0,1.1,Liverpool
+1/1/2021,Everton,0.3,0,1,1.3,West Ham
+1/1/2021,Manchester Utd,1.9,2,1,1.6,Aston Villa
+2/1/2021,Tottenham,2.6,3,0,1,Leeds United
+2/1/2021,Crystal Palace,0.6,2,0,0.3,Sheffield Utd
+2/1/2021,Brighton,1.7,3,3,1.7,Wolves
+2/1/2021,West Brom,0.4,0,4,3.3,Arsenal
+3/1/2021,Newcastle Utd,0.2,1,2,0.9,Leicester City
+3/1/2021,Chelsea,0.8,1,3,2.4,Manchester City
+4/1/2021,Southampton,0.6,1,0,1.1,Liverpool
+12/1/2021,Sheffield Utd,1.8,1,0,0.5,Newcastle Utd
+12/1/2021,Burnley,0.9,0,1,1.2,Manchester Utd
+12/1/2021,Wolves,1,1,2,0.6,Everton
+13/1/2021,Manchester City,2.6,1,0,0.2,Brighton
+13/1/2021,Tottenham,2.3,1,1,0.9,Fulham
+14/1/2021,Arsenal,0.6,0,0,0.9,Crystal Palace
+16/1/2021,Wolves,2.2,2,3,2.3,West Brom
+16/1/2021,Leeds United,0.3,0,1,1.3,Brighton
+16/1/2021,West Ham,1.7,1,0,0.5,Burnley
+16/1/2021,Fulham,0.8,0,1,1.5,Chelsea
+16/1/2021,Leicester City,2.1,2,0,0.8,Southampton
+17/1/2021,Aston Villa,,,,Everton,Villa Park
+17/1/2021,Sheffield Utd,0.7,1,3,1.2,Tottenham
+17/1/2021,Liverpool,1.7,0,0,0.9,Manchester Utd
+17/1/2021,Manchester City,0.9,4,0,0,Crystal Palace
+18/1/2021,Arsenal,2.8,3,0,0.2,Newcastle Utd
+19/1/2021,West Ham,1.3,2,1,0.4,West Brom
+19/1/2021,Leicester City,1.2,2,0,0.8,Chelsea
+20/1/2021,Manchester City,4.3,2,0,0.8,Aston Villa
+20/1/2021,Fulham,0.9,1,2,1.2,Manchester Utd
+21/1/2021,Liverpool,2.3,0,1,1.4,Burnley
+23/1/2021,Aston Villa,1.8,2,0,0.6,Newcastle Utd
+26/1/2021,Newcastle Utd,1.4,1,2,0.9,Leeds United
+26/1/2021,Crystal Palace,0.5,2,3,3,West Ham
+26/1/2021,West Brom,0.4,0,5,2,Manchester City
+26/1/2021,Southampton,1.2,1,3,2,Arsenal
+27/1/2021,Burnley,0.5,3,2,2.1,Aston Villa
+27/1/2021,Chelsea,0.8,0,0,0.4,Wolves
+27/1/2021,Brighton,2,0,0,1,Fulham
+27/1/2021,Manchester Utd,1.7,1,2,1,Sheffield Utd
+27/1/2021,Everton,0.6,1,1,1.1,Leicester City
+28/1/2021,Tottenham,0.2,1,3,2.1,Liverpool
+30/1/2021,Everton,1,0,2,1.8,Newcastle Utd
+30/1/2021,Manchester City,1.2,1,0,0.2,Sheffield Utd
+30/1/2021,West Brom,0.6,2,2,1.8,Fulham
+30/1/2021,Crystal Palace,0.8,1,0,0.4,Wolves
+30/1/2021,Arsenal,1.1,0,0,1.5,Manchester Utd
+30/1/2021,Southampton,1.7,0,1,0.5,Aston Villa
+31/1/2021,Chelsea,1.3,2,0,0.2,Burnley
+31/1/2021,Leicester City,1.9,1,3,1.8,Leeds United
+31/1/2021,West Ham,1,1,3,1.8,Liverpool
+31/1/2021,Brighton,1.9,1,0,0.5,Tottenham
+2/2/2021,Sheffield Utd,1.1,2,1,1.5,West Brom
+2/2/2021,Wolves,1.5,2,1,0.6,Arsenal
+2/2/2021,Newcastle Utd,1.8,1,2,0.9,Crystal Palace
+2/2/2021,Manchester Utd,3.7,9,0,0.5,Southampton
+3/2/2021,Burnley,0.1,0,2,2.6,Manchester City
+3/2/2021,Fulham,0.7,0,2,1.1,Leicester City
+3/2/2021,Leeds United,0.9,1,2,1.8,Everton
+3/2/2021,Liverpool,0.7,0,1,1.1,Brighton
+3/2/2021,Aston Villa,0.7,1,3,1.4,West Ham
+4/2/2021,Tottenham,0.3,0,1,2.2,Chelsea
+6/2/2021,Aston Villa,1.1,1,0,1.1,Arsenal
+6/2/2021,Burnley,2.1,1,1,0.6,Brighton
+6/2/2021,Newcastle Utd,0.8,3,2,1.4,Southampton
+6/2/2021,Fulham,1.4,0,0,0.8,West Ham
+6/2/2021,Manchester Utd,1.4,3,3,1.1,Everton
+7/2/2021,Tottenham,1.5,2,0,0.4,West Brom
+7/2/2021,Wolves,1.9,0,0,0.7,Leicester City
+7/2/2021,Liverpool,1.3,1,4,3.1,Manchester City
+7/2/2021,Sheffield Utd,0.4,1,2,1.4,Chelsea
+8/2/2021,Leeds United,2.8,2,0,0.5,Crystal Palace
+13/2/2021,Leicester City,2.6,3,1,1.8,Liverpool
+13/2/2021,Crystal Palace,0.6,0,3,1.3,Burnley
+13/2/2021,Manchester City,2.9,3,0,0.6,Tottenham
+13/2/2021,Brighton,1.7,0,0,0.1,Aston Villa
+14/2/2021,Southampton,0.7,1,2,1.1,Wolves
+14/2/2021,West Brom,1.1,1,1,0.4,Manchester Utd
+14/2/2021,Arsenal,2.4,4,2,0.7,Leeds United
+14/2/2021,Everton,0.4,0,2,2.7,Fulham
+15/2/2021,West Ham,1.9,3,0,0.7,Sheffield Utd
+15/2/2021,Chelsea,2,2,0,0.7,Newcastle Utd
+17/2/2021,Burnley,1.4,1,1,0.5,Fulham
+17/2/2021,Everton,1,1,3,1.5,Manchester City
+19/2/2021,Wolves,0.7,1,0,1.3,Leeds United
+20/2/2021,Southampton,0.5,1,1,1.2,Chelsea
+20/2/2021,Burnley,0.4,0,0,1,West Brom
+20/2/2021,Liverpool,1.7,0,2,1.5,Everton
+20/2/2021,Fulham,1.1,1,0,0.5,Sheffield Utd
+21/2/2021,West Ham,1.1,2,1,1.2,Tottenham
+21/2/2021,Aston Villa,1.2,1,2,1.2,Leicester City
+21/2/2021,Arsenal,0.3,0,1,2.1,Manchester City
+21/2/2021,Manchester Utd,1.8,3,1,0.5,Newcastle Utd
+22/2/2021,Brighton,2.6,1,2,0.2,Crystal Palace
+23/2/2021,Leeds United,1.3,3,0,0.7,Southampton
+27/2/2021,Manchester City,0.6,2,1,1.6,West Ham
+27/2/2021,West Brom,0.5,1,0,2.6,Brighton
+27/2/2021,Leeds United,0.7,0,1,0.9,Aston Villa
+27/2/2021,Newcastle Utd,1.5,1,1,1,Wolves
+28/2/2021,Crystal Palace,0.1,0,0,1,Fulham
+28/2/2021,Leicester City,0.5,1,3,2.2,Arsenal
+28/2/2021,Tottenham,2.2,4,0,0.5,Burnley
+28/2/2021,Chelsea,1.1,0,0,0.5,Manchester Utd
+28/2/2021,Sheffield Utd,0.6,0,2,2.9,Liverpool
+1/3/2021,Everton,1.6,1,0,1,Southampton
+2/3/2021,Manchester City,2.3,4,1,0.4,Wolves
+3/3/2021,Sheffield Utd,1,1,0,1.6,Aston Villa
+3/3/2021,Burnley,1.5,1,1,1.3,Leicester City
+3/3/2021,Crystal Palace,0.8,0,0,0.9,Manchester Utd
+4/3/2021,West Brom,1,0,1,1.1,Everton
+4/3/2021,Fulham,0.8,0,1,1.4,Tottenham
+4/3/2021,Liverpool,0.3,0,1,1,Chelsea
+6/3/2021,Burnley,1.5,1,1,2.3,Arsenal
+6/3/2021,Sheffield Utd,0.7,0,2,1.6,Southampton
+6/3/2021,Aston Villa,0.6,0,0,1.7,Wolves
+6/3/2021,Brighton,1,1,2,1.1,Leicester City
+7/3/2021,West Brom,1,0,0,0.4,Newcastle Utd
+7/3/2021,Liverpool,1,0,1,1.1,Fulham
+7/3/2021,Manchester City,1.5,0,2,1.6,Manchester Utd
+7/3/2021,Tottenham,2.7,4,1,0.3,Crystal Palace
+8/3/2021,Chelsea,2.9,2,0,0.3,Everton
+8/3/2021,West Ham,1.9,2,0,1.7,Leeds United
+10/3/2021,Manchester City,2.7,5,2,1.8,Southampton
+12/3/2021,Newcastle Utd,1.1,1,1,0.7,Aston Villa
+13/3/2021,Leeds United,0.4,0,0,1.4,Chelsea
+13/3/2021,Crystal Palace,1.3,1,0,0.8,West Brom
+13/3/2021,Everton,1.6,1,2,1.4,Burnley
+13/3/2021,Fulham,0.3,0,3,2.3,Manchester City
+14/3/2021,Southampton,1,1,2,0.9,Brighton
+14/3/2021,Leicester City,4,5,0,0.1,Sheffield Utd
+14/3/2021,Arsenal,1.7,2,1,0.6,Tottenham
+14/3/2021,Manchester Utd,1.2,1,0,0.6,West Ham
+15/3/2021,Wolves,0.8,0,1,1.1,Liverpool
+19/3/2021,Fulham,1.4,1,2,1.5,Leeds United
+20/3/2021,Brighton,1.2,3,0,0.1,Newcastle Utd
+21/3/2021,West Ham,2.3,3,3,1.7,Arsenal
+21/3/2021,Aston Villa,0.5,0,2,2.2,Tottenham
+3/4/2021,Chelsea,2.4,2,5,1.9,West Brom
+3/4/2021,Leeds United,2.5,2,1,1,Sheffield Utd
+3/4/2021,Leicester City,0.4,0,2,2.3,Manchester City
+3/4/2021,Arsenal,0.3,0,3,2.2,Liverpool
+4/4/2021,Southampton,1.9,3,2,1.8,Burnley
+4/4/2021,Newcastle Utd,2.7,2,2,1.7,Tottenham
+4/4/2021,Aston Villa,1.6,3,1,1.6,Fulham
+4/4/2021,Manchester Utd,1.7,2,1,1.1,Brighton
+5/4/2021,Everton,2.7,1,1,0.8,Crystal Palace
+5/4/2021,Wolves,2.5,2,3,1.2,West Ham
+9/4/2021,Fulham,0.9,0,1,0.4,Wolves
+10/4/2021,Manchester City,,,,Leeds United,Etihad Stadium
+10/4/2021,Liverpool,,,,Aston Villa,Anfield
+10/4/2021,Crystal Palace,,,,Chelsea,Selhurst Park
+11/4/2021,Burnley,,,,Newcastle Utd,Turf Moor
+11/4/2021,West Ham,,,,Leicester City,London Stadium
+11/4/2021,Tottenham,,,,Manchester Utd,Tottenham Hotspur Stadium
+11/4/2021,Sheffield Utd,,,,Arsenal,Bramall Lane
+12/4/2021,West Brom,,,,Southampton,The Hawthorns
+12/4/2021,Brighton,,,,Everton,The American Express Community Stadium
+16/4/2021,Everton,,,,Tottenham,Goodison Park
+17/4/2021,Southampton,,,,Crystal Palace,St. Mary's Stadium
+17/4/2021,Newcastle Utd,,,,West Ham,St. James' Park
+17/4/2021,Wolves,,,,Sheffield Utd,Molineux Stadium
+18/4/2021,Arsenal,,,,Fulham,Emirates Stadium
+18/4/2021,Manchester Utd,,,,Burnley,Old Trafford
+19/4/2021,Leeds United,,,,Liverpool,Elland Road
+20/4/2021,Chelsea,,,,Brighton,Stamford Bridge
+21/4/2021,Tottenham,,,,Southampton,Tottenham Hotspur Stadium
+21/4/2021,Aston Villa,,,,Manchester City,Villa Park
+22/4/2021,Leicester City,,,,West Brom,King Power Stadium
+23/4/2021,Arsenal,,,,Everton,Emirates Stadium
+24/4/2021,Liverpool,,,,Newcastle Utd,Anfield
+24/4/2021,West Ham,,,,Chelsea,London Stadium
+24/4/2021,Sheffield Utd,,,,Brighton,Bramall Lane
+25/4/2021,Wolves,,,,Burnley,Molineux Stadium
+25/4/2021,Leeds United,,,,Manchester Utd,Elland Road
+25/4/2021,Aston Villa,,,,West Brom,Villa Park
+26/4/2021,Leicester City,,,,Crystal Palace,King Power Stadium
+1/5/2021,Southampton,,,,Leicester City,St. Mary's Stadium
+1/5/2021,Burnley,,,,West Ham,Turf Moor
+1/5/2021,West Brom,,,,Wolves,The Hawthorns
+1/5/2021,Chelsea,,,,Fulham,Stamford Bridge
+1/5/2021,Manchester Utd,,,,Liverpool,Old Trafford
+1/5/2021,Crystal Palace,,,,Manchester City,Selhurst Park
+1/5/2021,Everton,,,,Aston Villa,Goodison Park
+1/5/2021,Brighton,,,,Leeds United,The American Express Community Stadium
+1/5/2021,Tottenham,,,,Sheffield Utd,Tottenham Hotspur Stadium
+1/5/2021,Newcastle Utd,,,,Arsenal,St. James' Park
+8/5/2021,Manchester City,,,,Chelsea,Etihad Stadium
+8/5/2021,Aston Villa,,,,Manchester Utd,Villa Park
+8/5/2021,Wolves,,,,Brighton,Molineux Stadium
+8/5/2021,Leeds United,,,,Tottenham,Elland Road
+8/5/2021,Fulham,,,,Burnley,Craven Cottage
+8/5/2021,Leicester City,,,,Newcastle Utd,King Power Stadium
+8/5/2021,Liverpool,,,,Southampton,Anfield
+8/5/2021,Arsenal,,,,West Brom,Emirates Stadium
+8/5/2021,Sheffield Utd,,,,Crystal Palace,Bramall Lane
+8/5/2021,West Ham,,,,Everton,London Stadium
+11/5/2021,Everton,,,,Sheffield Utd,Goodison Park
+11/5/2021,Brighton,,,,West Ham,The American Express Community Stadium
+11/5/2021,Burnley,,,,Leeds United,Turf Moor
+11/5/2021,West Brom,,,,Liverpool,The Hawthorns
+11/5/2021,Crystal Palace,,,,Aston Villa,Selhurst Park
+11/5/2021,Manchester Utd,,,,Leicester City,Old Trafford
+12/5/2021,Chelsea,,,,Arsenal,Stamford Bridge
+12/5/2021,Newcastle Utd,,,,Manchester City,St. James' Park
+12/5/2021,Tottenham,,,,Wolves,Tottenham Hotspur Stadium
+12/5/2021,Southampton,,,,Fulham,St. Mary's Stadium
+15/5/2021,Chelsea,,,,Leicester City,Stamford Bridge
+15/5/2021,Manchester Utd,,,,Fulham,Old Trafford
+15/5/2021,Brighton,,,,Manchester City,The American Express Community Stadium
+15/5/2021,West Brom,,,,West Ham,The Hawthorns
+15/5/2021,Newcastle Utd,,,,Sheffield Utd,St. James' Park
+15/5/2021,Burnley,,,,Liverpool,Turf Moor
+15/5/2021,Tottenham,,,,Aston Villa,Tottenham Hotspur Stadium
+15/5/2021,Crystal Palace,,,,Arsenal,Selhurst Park
+15/5/2021,Everton,,,,Wolves,Goodison Park
+15/5/2021,Southampton,,,,Leeds United,St. Mary's Stadium
+23/5/2021,Wolves,,,,Manchester Utd,Molineux Stadium
+23/5/2021,Leeds United,,,,West Brom,Elland Road
+23/5/2021,Aston Villa,,,,Chelsea,Villa Park
+23/5/2021,Leicester City,,,,Tottenham,King Power Stadium
+23/5/2021,Manchester City,,,,Everton,Etihad Stadium
+23/5/2021,Fulham,,,,Newcastle Utd,Craven Cottage
+23/5/2021,Arsenal,,,,Brighton,Emirates Stadium
+23/5/2021,West Ham,,,,Southampton,London Stadium
+23/5/2021,Sheffield Utd,,,,Burnley,Bramall Lane
+23/5/2021,Liverpool,,,,Crystal Palace,Anfield
