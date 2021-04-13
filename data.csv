@@ -174,7 +174,6 @@ Date,Home,HxG,HScore,AScore,AxG,Away
 16/1/2021,West Ham,1.7,1,0,0.5,Burnley
 16/1/2021,Fulham,0.8,0,1,1.5,Chelsea
 16/1/2021,Leicester City,2.1,2,0,0.8,Southampton
-17/1/2021,Aston Villa,,,,Everton,Villa Park
 17/1/2021,Sheffield Utd,0.7,1,3,1.2,Tottenham
 17/1/2021,Liverpool,1.7,0,0,0.9,Manchester Utd
 17/1/2021,Manchester City,0.9,4,0,0,Crystal Palace
@@ -301,81 +300,82 @@ Date,Home,HxG,HScore,AScore,AxG,Away
 5/4/2021,Everton,2.7,1,1,0.8,Crystal Palace
 5/4/2021,Wolves,2.5,2,3,1.2,West Ham
 9/4/2021,Fulham,0.9,0,1,0.4,Wolves
-10/4/2021,Manchester City,,,,Leeds United,Etihad Stadium
-10/4/2021,Liverpool,,,,Aston Villa,Anfield
-10/4/2021,Crystal Palace,,,,Chelsea,Selhurst Park
-11/4/2021,Burnley,,,,Newcastle Utd,Turf Moor
-11/4/2021,West Ham,,,,Leicester City,London Stadium
-11/4/2021,Tottenham,,,,Manchester Utd,Tottenham Hotspur Stadium
-11/4/2021,Sheffield Utd,,,,Arsenal,Bramall Lane
-12/4/2021,West Brom,,,,Southampton,The Hawthorns
-12/4/2021,Brighton,,,,Everton,The American Express Community Stadium
-16/4/2021,Everton,,,,Tottenham,Goodison Park
-17/4/2021,Southampton,,,,Crystal Palace,St. Mary's Stadium
-17/4/2021,Newcastle Utd,,,,West Ham,St. James' Park
-17/4/2021,Wolves,,,,Sheffield Utd,Molineux Stadium
-18/4/2021,Arsenal,,,,Fulham,Emirates Stadium
-18/4/2021,Manchester Utd,,,,Burnley,Old Trafford
-19/4/2021,Leeds United,,,,Liverpool,Elland Road
-20/4/2021,Chelsea,,,,Brighton,Stamford Bridge
-21/4/2021,Tottenham,,,,Southampton,Tottenham Hotspur Stadium
-21/4/2021,Aston Villa,,,,Manchester City,Villa Park
-22/4/2021,Leicester City,,,,West Brom,King Power Stadium
-23/4/2021,Arsenal,,,,Everton,Emirates Stadium
-24/4/2021,Liverpool,,,,Newcastle Utd,Anfield
-24/4/2021,West Ham,,,,Chelsea,London Stadium
-24/4/2021,Sheffield Utd,,,,Brighton,Bramall Lane
-25/4/2021,Wolves,,,,Burnley,Molineux Stadium
-25/4/2021,Leeds United,,,,Manchester Utd,Elland Road
-25/4/2021,Aston Villa,,,,West Brom,Villa Park
-26/4/2021,Leicester City,,,,Crystal Palace,King Power Stadium
-1/5/2021,Southampton,,,,Leicester City,St. Mary's Stadium
-1/5/2021,Burnley,,,,West Ham,Turf Moor
-1/5/2021,West Brom,,,,Wolves,The Hawthorns
-1/5/2021,Chelsea,,,,Fulham,Stamford Bridge
-1/5/2021,Manchester Utd,,,,Liverpool,Old Trafford
-1/5/2021,Crystal Palace,,,,Manchester City,Selhurst Park
-1/5/2021,Everton,,,,Aston Villa,Goodison Park
-1/5/2021,Brighton,,,,Leeds United,The American Express Community Stadium
-1/5/2021,Tottenham,,,,Sheffield Utd,Tottenham Hotspur Stadium
-1/5/2021,Newcastle Utd,,,,Arsenal,St. James' Park
-8/5/2021,Manchester City,,,,Chelsea,Etihad Stadium
-8/5/2021,Aston Villa,,,,Manchester Utd,Villa Park
-8/5/2021,Wolves,,,,Brighton,Molineux Stadium
-8/5/2021,Leeds United,,,,Tottenham,Elland Road
-8/5/2021,Fulham,,,,Burnley,Craven Cottage
-8/5/2021,Leicester City,,,,Newcastle Utd,King Power Stadium
-8/5/2021,Liverpool,,,,Southampton,Anfield
-8/5/2021,Arsenal,,,,West Brom,Emirates Stadium
-8/5/2021,Sheffield Utd,,,,Crystal Palace,Bramall Lane
-8/5/2021,West Ham,,,,Everton,London Stadium
-11/5/2021,Everton,,,,Sheffield Utd,Goodison Park
-11/5/2021,Brighton,,,,West Ham,The American Express Community Stadium
-11/5/2021,Burnley,,,,Leeds United,Turf Moor
-11/5/2021,West Brom,,,,Liverpool,The Hawthorns
-11/5/2021,Crystal Palace,,,,Aston Villa,Selhurst Park
-11/5/2021,Manchester Utd,,,,Leicester City,Old Trafford
-12/5/2021,Chelsea,,,,Arsenal,Stamford Bridge
-12/5/2021,Newcastle Utd,,,,Manchester City,St. James' Park
-12/5/2021,Tottenham,,,,Wolves,Tottenham Hotspur Stadium
-12/5/2021,Southampton,,,,Fulham,St. Mary's Stadium
-15/5/2021,Chelsea,,,,Leicester City,Stamford Bridge
-15/5/2021,Manchester Utd,,,,Fulham,Old Trafford
-15/5/2021,Brighton,,,,Manchester City,The American Express Community Stadium
-15/5/2021,West Brom,,,,West Ham,The Hawthorns
-15/5/2021,Newcastle Utd,,,,Sheffield Utd,St. James' Park
-15/5/2021,Burnley,,,,Liverpool,Turf Moor
-15/5/2021,Tottenham,,,,Aston Villa,Tottenham Hotspur Stadium
-15/5/2021,Crystal Palace,,,,Arsenal,Selhurst Park
-15/5/2021,Everton,,,,Wolves,Goodison Park
-15/5/2021,Southampton,,,,Leeds United,St. Mary's Stadium
-23/5/2021,Wolves,,,,Manchester Utd,Molineux Stadium
-23/5/2021,Leeds United,,,,West Brom,Elland Road
-23/5/2021,Aston Villa,,,,Chelsea,Villa Park
-23/5/2021,Leicester City,,,,Tottenham,King Power Stadium
-23/5/2021,Manchester City,,,,Everton,Etihad Stadium
-23/5/2021,Fulham,,,,Newcastle Utd,Craven Cottage
-23/5/2021,Arsenal,,,,Brighton,Emirates Stadium
-23/5/2021,West Ham,,,,Southampton,London Stadium
-23/5/2021,Sheffield Utd,,,,Burnley,Bramall Lane
-23/5/2021,Liverpool,,,,Crystal Palace,Anfield
+10/4/2021,Manchester City,,,,,Leeds United
+10/4/2021,Liverpool,,,,,Aston Villa
+10/4/2021,Crystal Palace,,,,,Chelsea
+11/4/2021,Burnley,,,,,Newcastle Utd
+11/4/2021,West Ham,,,,,Leicester City
+11/4/2021,Tottenham,,,,,Manchester Utd
+11/4/2021,Sheffield Utd,,,,,Arsenal
+12/4/2021,West Brom,,,,,Southampton
+12/4/2021,Brighton,,,,,Everton
+16/4/2021,Everton,,,,,Tottenham
+17/4/2021,Southampton,,,,,Crystal Palace
+17/4/2021,Newcastle Utd,,,,,West Ham
+17/4/2021,Wolves,,,,,Sheffield Utd
+18/4/2021,Arsenal,,,,,Fulham
+18/4/2021,Manchester Utd,,,,,Burnley
+19/4/2021,Leeds United,,,,,Liverpool
+20/4/2021,Chelsea,,,,,Brighton
+21/4/2021,Tottenham,,,,,Southampton
+21/4/2021,Aston Villa,,,,,Manchester City
+22/4/2021,Leicester City,,,,,West Brom
+23/4/2021,Arsenal,,,,,Everton
+24/4/2021,Liverpool,,,,,Newcastle Utd
+24/4/2021,West Ham,,,,,Chelsea
+24/4/2021,Sheffield Utd,,,,,Brighton
+25/4/2021,Wolves,,,,,Burnley
+25/4/2021,Leeds United,,,,,Manchester Utd
+25/4/2021,Aston Villa,,,,,West Brom
+26/4/2021,Leicester City,,,,,Crystal Palace
+1/5/2021,Southampton,,,,,Leicester City
+1/5/2021,Burnley,,,,,West Ham
+1/5/2021,West Brom,,,,,Wolves
+1/5/2021,Chelsea,,,,,Fulham
+1/5/2021,Manchester Utd,,,,,Liverpool
+1/5/2021,Crystal Palace,,,,,Manchester City
+1/5/2021,Everton,,,,,Aston Villa
+1/5/2021,Brighton,,,,,Leeds United
+1/5/2021,Tottenham,,,,,Sheffield Utd
+1/5/2021,Newcastle Utd,,,,,Arsenal
+8/5/2021,Manchester City,,,,,Chelsea
+8/5/2021,Aston Villa,,,,,Manchester Utd
+8/5/2021,Wolves,,,,,Brighton
+8/5/2021,Leeds United,,,,,Tottenham
+8/5/2021,Fulham,,,,,Burnley
+8/5/2021,Leicester City,,,,,Newcastle Utd
+8/5/2021,Liverpool,,,,,Southampton
+8/5/2021,Arsenal,,,,,West Brom
+8/5/2021,Sheffield Utd,,,,,Crystal Palace
+8/5/2021,West Ham,,,,,Everton
+11/5/2021,Everton,,,,,Sheffield Utd
+11/5/2021,Brighton,,,,,West Ham
+11/5/2021,Burnley,,,,,Leeds United
+11/5/2021,West Brom,,,,,Liverpool
+11/5/2021,Crystal Palace,,,,,Aston Villa
+11/5/2021,Manchester Utd,,,,,Leicester City
+12/5/2021,Chelsea,,,,,Arsenal
+12/5/2021,Newcastle Utd,,,,,Manchester City
+12/5/2021,Tottenham,,,,,Wolves
+12/5/2021,Southampton,,,,,Fulham
+15/5/2021,Chelsea,,,,,Leicester City
+15/5/2021,Manchester Utd,,,,,Fulham
+15/5/2021,Brighton,,,,,Manchester City
+15/5/2021,West Brom,,,,,West Ham
+15/5/2021,Newcastle Utd,,,,,Sheffield Utd
+15/5/2021,Burnley,,,,,Liverpool
+15/5/2021,Tottenham,,,,,Aston Villa
+15/5/2021,Crystal Palace,,,,,Arsenal
+15/5/2021,Everton,,,,,Wolves
+15/5/2021,Southampton,,,,,Leeds United
+23/5/2021,Wolves,,,,,Manchester Utd
+23/5/2021,Leeds United,,,,,West Brom
+23/5/2021,Aston Villa,,,,,Chelsea
+23/5/2021,Leicester City,,,,,Tottenham
+23/5/2021,Manchester City,,,,,Everton
+23/5/2021,Fulham,,,,,Newcastle Utd
+23/5/2021,Arsenal,,,,,Brighton
+23/5/2021,West Ham,,,,,Southampton
+23/5/2021,Sheffield Utd,,,,,Burnley
+23/5/2021,Liverpool,,,,,Crystal Palace
+24/5/2021,Aston Villa,,,,,Everton
