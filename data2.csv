@@ -1,0 +1,381 @@
+Date,Home,HxG,HScore,AScore,AxG,Away
+19/9/2020,Fiorentina,1.9,1,0,0.6,Torino
+19/9/2020,Hellas Verona,1.3,3,0,1.7,Roma
+20/9/2020,Parma,0.2,0,2,1.6,Napoli
+20/9/2020,Genoa,2,4,1,1.2,Crotone
+20/9/2020,Sassuolo,2.3,1,1,1,Cagliari
+20/9/2020,Juventus,2.4,3,0,0.8,Sampdoria
+21/9/2020,Milan,2.9,2,0,0.9,Bologna
+26/9/2020,Torino,0.7,2,4,1.6,Atalanta
+26/9/2020,Cagliari,1,0,2,2.1,Lazio
+26/9/2020,Sampdoria,1.6,2,3,1.2,Benevento
+26/9/2020,Inter,2.8,4,3,2.5,Fiorentina
+27/9/2020,Spezia,1.1,1,4,2.8,Sassuolo
+27/9/2020,Hellas Verona,1,1,0,1.7,Udinese
+27/9/2020,Napoli,2.4,6,0,0.6,Genoa
+27/9/2020,Crotone,0.3,0,2,2.4,Milan
+27/9/2020,Roma,2.7,2,2,1.3,Juventus
+28/9/2020,Bologna,2.2,4,1,1,Parma
+30/9/2020,Udinese,2.1,0,2,0.7,Spezia
+30/9/2020,Benevento,1.5,2,5,3.5,Inter
+30/9/2020,Lazio,2.6,1,4,1.7,Atalanta
+2/10/2020,Fiorentina,2.1,1,2,2.4,Sampdoria
+3/10/2020,Sassuolo,1.7,4,1,1.8,Crotone
+3/10/2020,Udinese,0.9,0,1,0.8,Roma
+4/10/2020,Atalanta,3.5,5,2,1,Cagliari
+4/10/2020,Lazio,1.3,1,1,0.9,Inter
+4/10/2020,Benevento,0.9,1,0,1.8,Bologna
+4/10/2020,Parma,1.6,1,0,0.5,Hellas Verona
+4/10/2020,Milan,2,3,0,0.2,Spezia
+17/10/2020,Napoli,1.7,4,1,1,Atalanta
+17/10/2020,Sampdoria,1.3,3,0,0.6,Lazio
+17/10/2020,Inter,2.4,1,2,2.3,Milan
+17/10/2020,Crotone,1.1,1,1,1.6,Juventus
+18/10/2020,Bologna,1.4,3,4,2.8,Sassuolo
+18/10/2020,Torino,1.7,2,3,2.1,Cagliari
+18/10/2020,Spezia,1.1,2,2,1.4,Fiorentina
+18/10/2020,Udinese,1.3,3,2,1,Parma
+18/10/2020,Roma,4.4,5,2,1.8,Benevento
+19/10/2020,Hellas Verona,1.4,0,0,0.4,Genoa
+23/10/2020,Sassuolo,2,3,3,2.1,Torino
+24/10/2020,Atalanta,2.1,1,3,1.9,Sampdoria
+24/10/2020,Genoa,0,0,2,1.8,Inter
+24/10/2020,Lazio,1,2,1,1.5,Bologna
+25/10/2020,Cagliari,2.4,4,2,1.6,Crotone
+25/10/2020,Benevento,0.5,1,2,2.1,Napoli
+25/10/2020,Parma,3.2,2,2,0.9,Spezia
+25/10/2020,Fiorentina,1.2,3,2,1.8,Udinese
+25/10/2020,Juventus,1.8,1,1,0.7,Hellas Verona
+26/10/2020,Milan,2.6,3,3,2.3,Roma
+31/10/2020,Crotone,0.4,1,2,2.6,Atalanta
+31/10/2020,Inter,2.5,2,2,0.7,Parma
+31/10/2020,Bologna,1.4,3,2,0.6,Cagliari
+1/11/2020,Udinese,1.1,1,2,1.1,Milan
+1/11/2020,Torino,2.8,3,4,1.4,Lazio
+1/11/2020,Spezia,0.7,1,4,3.4,Juventus
+1/11/2020,Roma,3,2,0,0.4,Fiorentina
+1/11/2020,Napoli,2.3,0,2,1.4,Sassuolo
+1/11/2020,Sampdoria,0.7,1,1,0.6,Genoa
+2/11/2020,Hellas Verona,1.7,3,1,1.6,Benevento
+4/11/2020,Genoa,1.1,1,2,0.6,Torino
+6/11/2020,Sassuolo,0.1,0,0,0.1,Udinese
+7/11/2020,Cagliari,2.1,2,0,0.1,Sampdoria
+7/11/2020,Benevento,0.3,0,3,0.9,Spezia
+7/11/2020,Parma,0.1,0,0,0.7,Fiorentina
+8/11/2020,Lazio,0.9,1,1,1.2,Juventus
+8/11/2020,Atalanta,0.8,1,1,1,Inter
+8/11/2020,Genoa,0.6,1,3,2,Roma
+8/11/2020,Torino,0.2,0,0,0.3,Crotone
+8/11/2020,Bologna,0.8,0,1,1.2,Napoli
+8/11/2020,Milan,3.3,2,2,1.5,Hellas Verona
+21/11/2020,Crotone,0.6,0,2,1.8,Lazio
+21/11/2020,Spezia,0.5,0,0,1.2,Atalanta
+21/11/2020,Juventus,2.1,2,0,0.1,Cagliari
+22/11/2020,Fiorentina,0.8,0,1,0.7,Benevento
+22/11/2020,Hellas Verona,1.2,0,2,0.5,Sassuolo
+22/11/2020,Inter,3.6,4,2,1.9,Torino
+22/11/2020,Roma,2.8,3,0,0,Parma
+22/11/2020,Sampdoria,0.7,1,2,1.7,Bologna
+22/11/2020,Udinese,0.5,1,0,1,Genoa
+22/11/2020,Napoli,1.7,1,3,2.6,Milan
+28/11/2020,Sassuolo,0.7,0,3,1.2,Inter
+28/11/2020,Benevento,0.4,1,1,1.6,Juventus
+28/11/2020,Atalanta,1.8,0,2,1.7,Hellas Verona
+29/11/2020,Lazio,1.3,1,3,1.1,Udinese
+29/11/2020,Milan,2.6,2,0,0.3,Fiorentina
+29/11/2020,Bologna,1.5,1,0,0.4,Crotone
+29/11/2020,Cagliari,2.3,2,2,2.8,Spezia
+29/11/2020,Napoli,1.9,4,0,0.3,Roma
+30/11/2020,Torino,1.6,2,2,1.1,Sampdoria
+30/11/2020,Genoa,1.4,1,2,1.1,Parma
+5/12/2020,Spezia,1.7,1,2,0.3,Lazio
+5/12/2020,Juventus,1.6,2,1,0.8,Torino
+5/12/2020,Inter,1.5,3,1,1.3,Bologna
+6/12/2020,Hellas Verona,2.8,1,1,1.2,Cagliari
+6/12/2020,Parma,0.4,0,0,0.3,Benevento
+6/12/2020,Roma,1.2,0,0,0.4,Sassuolo
+6/12/2020,Crotone,0.5,0,4,2.2,Napoli
+6/12/2020,Sampdoria,1.1,1,2,2.5,Milan
+7/12/2020,Fiorentina,2.7,1,1,1.2,Genoa
+11/12/2020,Sassuolo,1,1,0,2.5,Benevento
+12/12/2020,Crotone,2.2,4,1,1.2,Spezia
+12/12/2020,Torino,1,2,3,1.2,Udinese
+12/12/2020,Lazio,1,1,2,1.2,Hellas Verona
+13/12/2020,Cagliari,1.6,1,3,3.5,Inter
+13/12/2020,Atalanta,2.6,3,0,0.4,Fiorentina
+13/12/2020,Bologna,0.7,1,5,3.4,Roma
+13/12/2020,Napoli,1.1,2,1,1.1,Sampdoria
+13/12/2020,Genoa,0.2,1,3,2.6,Juventus
+13/12/2020,Milan,1.8,2,2,0.6,Parma
+15/12/2020,Udinese,1.1,0,0,0.2,Crotone
+15/12/2020,Benevento,1.4,1,1,0.8,Lazio
+16/12/2020,Juventus,2.7,1,1,1.1,Atalanta
+16/12/2020,Fiorentina,2,1,1,1.1,Sassuolo
+16/12/2020,Genoa,1.2,2,2,1.5,Milan
+16/12/2020,Spezia,3.7,2,2,2,Bologna
+16/12/2020,Inter,1.1,1,0,1.7,Napoli
+16/12/2020,Hellas Verona,1.4,1,2,0.7,Sampdoria
+16/12/2020,Parma,1,0,0,0.3,Cagliari
+17/12/2020,Roma,2.6,3,1,1.5,Torino
+19/12/2020,Fiorentina,1.2,1,1,1.1,Hellas Verona
+19/12/2020,Sampdoria,1.9,3,1,0.9,Crotone
+19/12/2020,Parma,0.7,0,4,2.5,Juventus
+20/12/2020,Torino,0.9,1,1,1.6,Bologna
+20/12/2020,Benevento,1.6,2,0,0.3,Genoa
+20/12/2020,Inter,1.8,2,1,0.8,Spezia
+20/12/2020,Cagliari,0.5,1,1,1.4,Udinese
+20/12/2020,Sassuolo,0.9,1,2,1.5,Milan
+20/12/2020,Atalanta,2,4,1,0.8,Roma
+20/12/2020,Lazio,0.8,2,0,0.9,Napoli
+22/12/2020,Crotone,0.8,2,1,1.2,Parma
+22/12/2020,Juventus,0.4,0,3,1,Fiorentina
+23/12/2020,Hellas Verona,0.7,1,2,2.1,Inter
+23/12/2020,Sampdoria,1.7,2,3,2.1,Sassuolo
+23/12/2020,Udinese,1.7,0,2,0.4,Benevento
+23/12/2020,Napoli,0.9,1,1,0.5,Torino
+23/12/2020,Roma,3.2,3,2,1.7,Cagliari
+23/12/2020,Bologna,1,2,2,1.5,Atalanta
+23/12/2020,Milan,1.9,3,2,1.8,Lazio
+23/12/2020,Spezia,0.7,1,2,1.6,Genoa
+3/1/2021,Inter,2.5,6,2,1.6,Crotone
+3/1/2021,Fiorentina,0.3,0,0,0.7,Bologna
+3/1/2021,Atalanta,2.7,5,1,0.7,Sassuolo
+3/1/2021,Parma,1,0,3,1.6,Torino
+3/1/2021,Genoa,0.9,1,1,1.4,Lazio
+3/1/2021,Roma,2.1,1,0,0.4,Sampdoria
+3/1/2021,Cagliari,1,1,4,3.8,Napoli
+3/1/2021,Spezia,0.8,0,1,1.7,Hellas Verona
+3/1/2021,Benevento,2.5,0,2,1.5,Milan
+3/1/2021,Juventus,2.8,4,1,1.7,Udinese
+6/1/2021,Cagliari,0.9,1,2,1.2,Benevento
+6/1/2021,Bologna,1,2,2,1.6,Udinese
+6/1/2021,Sampdoria,1.2,2,1,2.5,Inter
+6/1/2021,Atalanta,1.7,3,0,0,Parma
+6/1/2021,Lazio,1.2,2,1,1.6,Fiorentina
+6/1/2021,Sassuolo,1.6,2,1,1.1,Genoa
+6/1/2021,Torino,1.4,1,1,0.4,Hellas Verona
+6/1/2021,Crotone,0.8,1,3,2.2,Roma
+6/1/2021,Napoli,3.6,1,2,2,Spezia
+6/1/2021,Milan,1.3,1,3,1.7,Juventus
+9/1/2021,Benevento,0.9,1,4,4.3,Atalanta
+9/1/2021,Genoa,1.4,2,0,0.5,Bologna
+9/1/2021,Milan,1.6,2,0,0.6,Torino
+10/1/2021,Roma,1.1,2,2,2,Inter
+10/1/2021,Udinese,2.8,1,2,1.9,Napoli
+10/1/2021,Parma,0.6,0,2,3.6,Lazio
+10/1/2021,Hellas Verona,1.1,2,1,0.7,Crotone
+10/1/2021,Fiorentina,2,1,0,1.3,Cagliari
+10/1/2021,Juventus,3.6,3,1,1.1,Sassuolo
+11/1/2021,Spezia,1.4,2,1,1,Sampdoria
+15/1/2021,Lazio,1,3,0,1.3,Roma
+16/1/2021,Bologna,1.8,1,0,0.9,Hellas Verona
+16/1/2021,Torino,1,0,0,0.4,Spezia
+16/1/2021,Sampdoria,1.9,2,1,1.9,Udinese
+17/1/2021,Napoli,1.8,6,0,0.9,Fiorentina
+17/1/2021,Crotone,1.4,4,1,2.4,Benevento
+17/1/2021,Sassuolo,1.8,1,1,0.9,Parma
+17/1/2021,Atalanta,1.8,0,0,0.8,Genoa
+17/1/2021,Inter,2,2,0,0.5,Juventus
+18/1/2021,Cagliari,1.2,0,2,2,Milan
+20/1/2021,Udinese,0.3,1,1,1.4,Atalanta
+22/1/2021,Benevento,1.9,2,2,1.5,Torino
+23/1/2021,Roma,2.6,4,3,1.2,Spezia
+23/1/2021,Milan,1.6,0,3,2.4,Atalanta
+23/1/2021,Udinese,0.5,0,0,0.8,Inter
+23/1/2021,Fiorentina,1.6,2,1,0.7,Crotone
+24/1/2021,Juventus,2.7,2,0,0.5,Bologna
+24/1/2021,Genoa,1.9,1,0,1.1,Cagliari
+24/1/2021,Hellas Verona,1.7,3,1,0.9,Napoli
+24/1/2021,Lazio,1.4,2,1,0.6,Sassuolo
+24/1/2021,Parma,0.8,0,2,1.3,Sampdoria
+29/1/2021,Torino,2.1,1,1,1.3,Fiorentina
+30/1/2021,Bologna,1.1,1,2,2.7,Milan
+30/1/2021,Sampdoria,0.4,0,2,1.9,Juventus
+30/1/2021,Inter,1.6,4,0,0,Benevento
+31/1/2021,Spezia,0.8,0,1,1,Udinese
+31/1/2021,Atalanta,1.2,1,3,2.9,Lazio
+31/1/2021,Crotone,0.6,0,3,1,Genoa
+31/1/2021,Cagliari,0.7,1,1,1.7,Sassuolo
+31/1/2021,Napoli,0.7,2,0,0.2,Parma
+31/1/2021,Roma,1.8,3,1,0.9,Hellas Verona
+5/2/2021,Fiorentina,0.6,0,2,2.4,Inter
+6/2/2021,Sassuolo,1,1,2,1.6,Spezia
+6/2/2021,Atalanta,1.7,3,3,2.8,Torino
+6/2/2021,Juventus,0.2,2,0,1,Roma
+6/2/2021,Genoa,1.2,2,1,1.5,Napoli
+7/2/2021,Benevento,1.1,1,1,2,Sampdoria
+7/2/2021,Milan,2.5,4,0,0.6,Crotone
+7/2/2021,Udinese,2,2,0,0.4,Hellas Verona
+7/2/2021,Parma,1.1,0,3,1.5,Bologna
+7/2/2021,Lazio,1.1,1,0,0.9,Cagliari
+12/2/2021,Bologna,1.8,1,1,1.1,Benevento
+13/2/2021,Torino,0.8,0,0,0.4,Genoa
+13/2/2021,Napoli,1,1,0,1.7,Juventus
+13/2/2021,Spezia,1.9,2,0,0.4,Milan
+14/2/2021,Roma,2,3,0,0.4,Udinese
+14/2/2021,Sampdoria,0.9,2,1,1.8,Fiorentina
+14/2/2021,Cagliari,0.3,0,1,0.7,Atalanta
+14/2/2021,Crotone,0.7,1,2,2.7,Sassuolo
+14/2/2021,Inter,2.8,3,1,0.9,Lazio
+15/2/2021,Hellas Verona,1,2,1,1.6,Parma
+19/2/2021,Fiorentina,2.6,3,0,0.6,Spezia
+19/2/2021,Cagliari,1.1,0,1,0.9,Torino
+20/2/2021,Lazio,1.4,1,0,0.6,Sampdoria
+20/2/2021,Genoa,1.1,2,2,1.5,Hellas Verona
+20/2/2021,Sassuolo,2.3,1,1,0.4,Bologna
+21/2/2021,Parma,2.5,2,2,1.1,Udinese
+21/2/2021,Milan,1,0,3,2.3,Inter
+21/2/2021,Atalanta,2.2,4,2,0.5,Napoli
+21/2/2021,Benevento,0.3,0,0,1,Roma
+22/2/2021,Juventus,4.4,3,0,0.8,Crotone
+27/2/2021,Spezia,1.8,2,2,1.3,Parma
+27/2/2021,Bologna,1.3,2,0,2.3,Lazio
+27/2/2021,Hellas Verona,0.7,1,1,1,Juventus
+28/2/2021,Sampdoria,0.5,0,2,1.9,Atalanta
+28/2/2021,Udinese,0.9,1,0,0.4,Fiorentina
+28/2/2021,Inter,2.2,3,0,0.2,Genoa
+28/2/2021,Crotone,0.8,0,2,1.3,Cagliari
+28/2/2021,Napoli,2,2,0,0.3,Benevento
+28/2/2021,Roma,2,1,2,3.2,Milan
+2/3/2021,Juventus,2.2,3,0,1.4,Spezia
+3/3/2021,Sassuolo,2.6,3,3,2.4,Napoli
+3/3/2021,Benevento,0.4,0,3,2.1,Hellas Verona
+3/3/2021,Atalanta,3.2,5,1,0.9,Crotone
+3/3/2021,Genoa,0.3,1,1,0.5,Sampdoria
+3/3/2021,Milan,1.3,1,1,0.6,Udinese
+3/3/2021,Cagliari,1.1,1,0,0.8,Bologna
+3/3/2021,Fiorentina,0.6,1,2,1.6,Roma
+4/3/2021,Parma,0.7,1,2,2.5,Inter
+6/3/2021,Spezia,1.1,1,1,0.4,Benevento
+6/3/2021,Udinese,1.4,2,0,0.7,Sassuolo
+6/3/2021,Juventus,1.3,3,1,1.1,Lazio
+7/3/2021,Roma,1.2,1,0,0.2,Genoa
+7/3/2021,Fiorentina,0.7,3,3,2.2,Parma
+7/3/2021,Crotone,2.1,4,2,1.4,Torino
+7/3/2021,Hellas Verona,0.7,0,2,0.7,Milan
+7/3/2021,Sampdoria,0.8,2,2,0.8,Cagliari
+7/3/2021,Napoli,1.4,3,1,0.9,Bologna
+8/3/2021,Inter,0.3,1,0,0.9,Atalanta
+12/3/2021,Lazio,2.2,3,2,1.2,Crotone
+12/3/2021,Atalanta,1.9,3,1,1.1,Spezia
+13/3/2021,Sassuolo,1.4,3,2,1.1,Hellas Verona
+13/3/2021,Benevento,1.5,1,4,2,Fiorentina
+13/3/2021,Genoa,1,1,1,1.5,Udinese
+14/3/2021,Bologna,1.9,3,1,2,Sampdoria
+14/3/2021,Torino,0.9,1,2,1.9,Inter
+14/3/2021,Parma,1.7,2,0,1.9,Roma
+14/3/2021,Cagliari,0.7,1,3,2.3,Juventus
+14/3/2021,Milan,1,0,1,1.3,Napoli
+17/3/2021,Torino,2.3,3,2,1,Sassuolo
+19/3/2021,Parma,1.1,1,2,1,Genoa
+20/3/2021,Crotone,1.8,2,3,3.2,Bologna
+20/3/2021,Spezia,1,2,1,2.5,Cagliari
+21/3/2021,Hellas Verona,0.2,0,2,2.1,Atalanta
+21/3/2021,Sampdoria,1.1,1,0,0.5,Torino
+21/3/2021,Juventus,1.8,0,1,0.3,Benevento
+21/3/2021,Udinese,1.4,0,1,1.1,Lazio
+21/3/2021,Fiorentina,0.2,2,3,1.7,Milan
+21/3/2021,Roma,0.5,0,2,1,Napoli
+3/4/2021,Milan,1.2,1,1,0.7,Sampdoria
+3/4/2021,Sassuolo,3.2,2,2,2.1,Roma
+3/4/2021,Cagliari,2,0,2,1.3,Hellas Verona
+3/4/2021,Atalanta,2.8,3,2,0.7,Udinese
+3/4/2021,Benevento,1,2,2,1.8,Parma
+3/4/2021,Lazio,2.3,2,1,0.7,Spezia
+3/4/2021,Napoli,2.8,4,3,1.2,Crotone
+3/4/2021,Genoa,0.7,1,1,0.7,Fiorentina
+3/4/2021,Torino,0.8,2,2,2.2,Juventus
+3/4/2021,Bologna,0.8,0,1,1.6,Inter
+7/4/2021,Juventus,1.4,2,1,1.5,Napoli
+7/4/2021,Inter,1,2,1,0.7,Sassuolo
+10/4/2021,Spezia,1.5,3,2,1.7,Crotone
+10/4/2021,Parma,1.1,1,3,1.2,Milan
+10/4/2021,Udinese,1.6,0,1,1.5,Torino
+11/4/2021,Inter,1.3,1,0,0.5,Cagliari
+11/4/2021,Juventus,2.5,3,1,1.1,Genoa
+11/4/2021,Sampdoria,1.1,0,2,1.7,Napoli
+11/4/2021,Hellas Verona,0.2,0,1,0.7,Lazio
+11/4/2021,Roma,1.6,1,0,1.4,Bologna
+11/4/2021,Fiorentina,1.3,2,3,2.5,Atalanta
+12/4/2021,Benevento,0.7,0,1,1.8,Sassuolo
+17/4/2021,Sampdoria,1.8,3,1,1.5,Hellas Verona
+17/4/2021,Crotone,1.1,1,2,0.9,Udinese
+17/4/2021,Sassuolo,2.1,3,1,0.7,Fiorentina
+17/4/2021,Cagliari,1.6,4,3,1.3,Parma
+18/4/2021,Milan,1.2,2,1,1,Genoa
+18/4/2021,Bologna,3.5,4,1,0.6,Spezia
+18/4/2021,Atalanta,,,,,Juventus
+18/4/2021,Lazio,,,,,Benevento
+18/4/2021,Torino,,,,,Roma
+18/4/2021,Napoli,,,,,Inter
+20/4/2021,Hellas Verona,,,,,Fiorentina
+21/4/2021,Milan,,,,,Sassuolo
+21/4/2021,Juventus,,,,,Parma
+21/4/2021,Genoa,,,,,Benevento
+21/4/2021,Spezia,,,,,Inter
+21/4/2021,Udinese,,,,,Cagliari
+21/4/2021,Bologna,,,,,Torino
+21/4/2021,Crotone,,,,,Sampdoria
+22/4/2021,Roma,,,,,Atalanta
+22/4/2021,Napoli,,,,,Lazio
+24/4/2021,Genoa,,,,,Spezia
+24/4/2021,Parma,,,,,Crotone
+24/4/2021,Sassuolo,,,,,Sampdoria
+25/4/2021,Benevento,,,,,Udinese
+25/4/2021,Fiorentina,,,,,Juventus
+25/4/2021,Inter,,,,,Hellas Verona
+25/4/2021,Cagliari,,,,,Roma
+25/4/2021,Atalanta,,,,,Bologna
+26/4/2021,Torino,,,,,Napoli
+26/4/2021,Lazio,,,,,Milan
+1/5/2021,Hellas Verona,,,,,Spezia
+1/5/2021,Crotone,,,,,Inter
+1/5/2021,Milan,,,,,Benevento
+2/5/2021,Lazio,,,,,Genoa
+2/5/2021,Napoli,,,,,Cagliari
+2/5/2021,Sassuolo,,,,,Atalanta
+2/5/2021,Bologna,,,,,Fiorentina
+2/5/2021,Udinese,,,,,Juventus
+2/5/2021,Sampdoria,,,,,Roma
+3/5/2021,Torino,,,,,Parma
+9/5/2021,Spezia,,,,,Napoli
+9/5/2021,Udinese,,,,,Bologna
+9/5/2021,Fiorentina,,,,,Lazio
+9/5/2021,Parma,,,,,Atalanta
+9/5/2021,Benevento,,,,,Cagliari
+9/5/2021,Roma,,,,,Crotone
+9/5/2021,Hellas Verona,,,,,Torino
+9/5/2021,Genoa,,,,,Sassuolo
+9/5/2021,Inter,,,,,Sampdoria
+9/5/2021,Juventus,,,,,Milan
+12/5/2021,Atalanta,,,,,Benevento
+12/5/2021,Sampdoria,,,,,Spezia
+12/5/2021,Crotone,,,,,Hellas Verona
+12/5/2021,Torino,,,,,Milan
+12/5/2021,Cagliari,,,,,Fiorentina
+12/5/2021,Lazio,,,,,Parma
+12/5/2021,Sassuolo,,,,,Juventus
+12/5/2021,Napoli,,,,,Udinese
+12/5/2021,Bologna,,,,,Genoa
+12/5/2021,Inter,,,,,Roma
+16/5/2021,Fiorentina,,,,,Napoli
+16/5/2021,Genoa,,,,,Atalanta
+16/5/2021,Roma,,,,,Lazio
+16/5/2021,Spezia,,,,,Torino
+16/5/2021,Parma,,,,,Sassuolo
+16/5/2021,Udinese,,,,,Sampdoria
+16/5/2021,Milan,,,,,Cagliari
+16/5/2021,Hellas Verona,,,,,Bologna
+16/5/2021,Benevento,,,,,Crotone
+16/5/2021,Juventus,,,,,Inter
+23/5/2021,Sassuolo,,,,,Lazio
+23/5/2021,Torino,,,,,Benevento
+23/5/2021,Napoli,,,,,Hellas Verona
+23/5/2021,Crotone,,,,,Fiorentina
+23/5/2021,Inter,,,,,Udinese
+23/5/2021,Cagliari,,,,,Genoa
+23/5/2021,Sampdoria,,,,,Parma
+23/5/2021,Atalanta,,,,,Milan
+23/5/2021,Spezia,,,,,Roma
+23/5/2021,Bologna,,,,,Juventus
+23/5/2021,Lazio,,,,,Torino
